@@ -510,6 +510,9 @@
 # 18436 LMR TALK MM DV
 18436 reflector.jchang.io 41000
 
+# 20210 GR-Hellas-ADN
+20210	158.220.119.88	41000
+
 # 20281 GR-KERKYRA-DV
 20281	greece.freedmr.online	41000
 
